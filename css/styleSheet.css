@@ -20,6 +20,10 @@ h1 {
   font-weight: lighter;
 }
 
+header{
+  margin-bottom: 4%;
+}
+
 .logo {
   width: 15%;
   display: inline;
@@ -40,6 +44,7 @@ h1 {
 
 .featured-work-heading {
   color: #7d97ad;
+  margin-top: 5%;
 }
 
 .work {
@@ -73,7 +78,7 @@ h1 {
 }
 
 hr {
-	border-top: 4px solid #8c8b8b;
+	border-top: 4px solid #7d97ad;
 	text-align: center;
 }
 
