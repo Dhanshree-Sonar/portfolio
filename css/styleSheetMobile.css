@@ -1,0 +1,20 @@
+.block {
+  display: inline-block;
+}
+
+.color-block {
+  width: 60px;
+  height: 60px;
+}
+
+.squares {
+  text-align: center;
+}
+
+h1, h2, h4 {
+  font-size: 130%;
+}
+
+.logo {
+  width: 25%;
+}
