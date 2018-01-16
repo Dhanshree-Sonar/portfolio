@@ -38,7 +38,7 @@ h1 {
   width: 100%;
 }
 
-.fw {
+.featured-work-heading {
   color: #7d97ad;
 }
 
@@ -61,15 +61,15 @@ h1 {
 }
 
 .blue {
-  background-color: #02b3e4;
+  background: #02b3e4;
 }
 
 .black {
-  background-color: #2d3c49;
+  background: #2d3c49;
 }
 
 .grey {
-  background-color: #7d97ad;
+  background: #7d97ad;
 }
 
 hr {
