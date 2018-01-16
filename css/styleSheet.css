@@ -20,12 +20,8 @@ h1 {
   font-weight: lighter;
 }
 
-header{
-  margin-bottom: 4%;
-}
-
 .logo {
-  width: 15%;
+  width: 80%;
   display: inline;
   position: relative;
   float: left;
