@@ -9,7 +9,8 @@ This is a portfolio website. It contains information about some of my project wo
 
 ## How to run
 
-1. Place index.html, css folder and img folder at one location.
-2. Open index.html with browser of your choice.
-
-
+Clone the repository to your local directory or download it
+  - Clone command: `git clone https://github.com/Dhanshree-Sonar/portfolio.git`
+  - Open index.html using your choice of browser
+OR
+You can visit Github hosted version [Click here](https://dhanshree-sonar.github.io/portfolio/)
