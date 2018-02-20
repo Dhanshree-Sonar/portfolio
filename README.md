@@ -1,5 +1,5 @@
 # Portfolio
-This is a portfolio website. It contains information about some of my project work.
+This website contains information about some of my project work.
 
 ## Technologies used
 1. HTML
