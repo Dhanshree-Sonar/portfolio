@@ -5,6 +5,7 @@ This website contains information about some of my project work.
 1. HTML
 2. CSS
 3. Bootstrap CSS framework
+4. Font Awesome
 
 ## File List
 1. index.html
